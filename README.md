@@ -1,4 +1,7 @@
-# api documentation for  [rcedit (v0.8.0)](https://github.com/electron/node-rcedit#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-rcedit.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rcedit) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rcedit.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rcedit)
+# npmdoc-rcedit
+
+#### basic api documentation for  [rcedit (v0.8.0)](https://github.com/electron/node-rcedit#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-rcedit.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rcedit) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rcedit.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rcedit)
+
 #### Node module to edit resources of exe
 
 [![NPM](https://nodei.co/npm/rcedit.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rcedit)
@@ -69,7 +72,8 @@
         "lint": "standard",
         "test": "mocha test/*.js && npm run lint"
     },
-    "version": "0.8.0"
+    "version": "0.8.0",
+    "bin": {}
 }
 ```
 
